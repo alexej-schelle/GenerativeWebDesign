@@ -1,1 +1,1 @@
-# GAN-Web-Designer
+# GAN-Web-Design
