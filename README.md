@@ -1,1 +1,1 @@
-# KI-WebDesign
+# GAN-Web-Designer
