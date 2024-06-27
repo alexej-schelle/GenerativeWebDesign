@@ -1,1 +1,1 @@
-# GAN-Web-Design
+# GenerativeWebDesign
