@@ -22,7 +22,7 @@ print(vr_dataset.head())
 print(vr_dataset.isnull().sum())
 
 # Lösche alle Einträge in der ersten Spalte
-vr_dataset = vr_dataset.drop(columns=['UserID '])
+vr_dataset = vr_dataset.drop(columns=['UserID'])
 
 # Encode categorical columns
 # Call the constructor of LE.
@@ -36,7 +36,7 @@ vr_dataset[categorical_cols] = vr_dataset[categorical_cols].apply(lambda col: le
 
 # Split the data into features and target variable
 # Drop the dependent variable column.
-Data = vr_dataset.drop(columns=[' ImmersionLevel'])
+Data = vr_dataset.drop(columns=['ImmersionLevel'])
 
 # Normalize the features
 # Call the constructor
@@ -46,7 +46,7 @@ scaler = StandardScaler()
 Data = pd.DataFrame(scaler.fit_transform(Data), columns=Data.columns)
 
 # Split the data into training and test sets (!)
-data = vr_dataset[' ImmersionLevel']
+data = vr_dataset['ImmersionLevel']
 
 # Split the X and y values to 30% test - 70% train
 Data_train, Data_test, data_train, data_test = train_test_split(Data, data, test_size=0.3, random_state=42)
@@ -109,7 +109,7 @@ print(' ')
 print('Ab hier werden MotionSickness Levels berechnet')
 print(' ')
 
-Data = vr_dataset.drop(columns=[' MotionSickness '])
+Data = vr_dataset.drop(columns=['MotionSickness'])
 
 # Normalize the features
 # Call the constructor
@@ -119,7 +119,7 @@ scaler = StandardScaler()
 Data = pd.DataFrame(scaler.fit_transform(Data), columns=Data.columns)
 
 # Split the data into training and test sets (!)
-data = vr_dataset[' MotionSickness ']
+data = vr_dataset['MotionSickness']
 
 # Split the X and y values to 30% test - 70% train
 Data_train, Data_test, data_train, data_test = train_test_split(Data, data, test_size=0.3, random_state=42)
