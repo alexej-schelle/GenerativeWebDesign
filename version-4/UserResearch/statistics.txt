@@ -1,0 +1,87 @@
+Age statistics:
+Count:  735
+Mean:  25.206802721088437
+Standard deviation:  12.054969804366529
+
+Hours per day statistics:
+Count Duration:  736
+Mean:  3.5727581521739133
+Standard deviation:  3.0281988317412885
+
+BPM statistics:
+Count :  629
+Mean:  1589948.344992051
+Standard deviation:  39872606.18037188
+
+OCD statistics:
+Count :  488
+Mean:  3.9774590163934427
+Standard deviation:  2.6169766594486923
+Maximum:  10.0
+Minimum:  1.0
+
+Anxiety statistics:
+Count :  701
+Mean:  6.129101283880171
+Standard deviation:  2.5302643379154914
+Maximum:  10.0
+Minimum:  1.0
+
+Depression statistics:
+Count :  652
+Mean:  5.414110429447852
+Standard deviation:  2.6471124992702424
+Maximum:  10.0
+Minimum:  1.0
+
+Insomnia statistics:
+Count :  587
+Mean:  4.687393526405452
+Standard deviation:  2.7404462380752057
+Maximum:  10.0
+Minimum:  1.0
+
+#### ab hier mOdelldaten
+
+Age statistics:
+Count:  999
+Mean:  25.30566230072493
+Standard deviation:  11.8149888897699
+
+Hours per day statistics:
+Count Duration:  999
+Mean:  7.865468934575575
+Standard deviation:  7.642262543826657
+
+BPM statistics:
+Count :  999
+Mean:  0.0
+Standard deviation:  0.0
+
+OCD statistics:
+Count :  999
+Mean:  2.4784784784784786
+Standard deviation:  0.8664807355142535
+Maximum:  3.0
+Minimum:  1.0
+
+Anxiety statistics:
+Count :  956
+Mean:  6.2489539748953975
+Standard deviation:  2.526249409195502
+Maximum:  10.0
+Minimum:  1.0
+
+Depression statistics:
+Count :  800
+Mean:  4.615
+Standard deviation:  2.7913284280054254
+Maximum:  10.0
+Minimum:  1.0
+
+Insomnia statistics:
+Count :  877
+Mean:  5.3135689851767385
+Standard deviation:  2.651089318859557
+Maximum:  10.0
+Minimum:  1.0
