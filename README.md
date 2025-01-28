@@ -24,7 +24,9 @@ auf Designtypen automatisiert erstellt.
 # Dokumentierte Anwendungsszenarien
 *********************************************************************************************************************
 
-    - Modellierung von Immersionslevels
+    - Modellierung von Immersionslevels und Motion Sickness Parametern
+    - Vorhersage von Krankheitsparametern für Angststörung, Depression, Insomnia und OCD
+    - Bestimmung einer optimalen Wechselwirkungszeit
     
 *********************************************************************************************************************
 
