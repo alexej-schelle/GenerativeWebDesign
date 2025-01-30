@@ -13,7 +13,7 @@ auf Designtypen automatisiert erstellt.
 
 # Installation unter Windows Betriebssystemen
 *********************************************************************************************************************
-    Download files at https://github.com/alexej-schelle/AtomLaser/ and start the software with AtomLaser.py
+    Download files at https://github.com/alexej-schelle/AtomLaser/ and start the software with main.py
 *********************************************************************************************************************
 
 # Dokumentation unter Linux, Mac und Windows Betriebssystemen
